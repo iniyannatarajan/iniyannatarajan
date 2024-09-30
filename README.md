@@ -1,6 +1,6 @@
 ### Hi there, I'm Iniyan 👋
 
-- Check out my website [here](https://iniyannatarajan.github.io/)
+- Check out my website [here](https://iniyannatarajan.github.io/) (WIP)
 
 <p>
 <!-- Python Badge -->
